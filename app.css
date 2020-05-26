@@ -5,7 +5,7 @@ h1{
     text-align: center;
     font-weight: normal;
     line-height: 2;
-    text-decoration: line-through overline underline;/* none*/
+    /*text-decoration: line-through overline underline;/* none*/*/
     text-indent: 100px;
 }
 p{
